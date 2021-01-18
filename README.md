@@ -1,10 +1,10 @@
 # film-enthusiasts
 A single page small application using nodejs and reactjs
 
-Open client, do
+Open client folder, run
 # npm install
 
-Open server, do
+Open server folder, run
 # npm install
 
 To start the project, go to server folder and run
